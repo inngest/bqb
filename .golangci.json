@@ -1,0 +1,6 @@
+{
+  "run": {
+    "skip-dirs": ["vendor"],
+    "timeout": "10m"
+  }
+}
